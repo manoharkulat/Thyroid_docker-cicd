@@ -12,3 +12,17 @@ pytest
 tox
 flake8
 streamlit
+
+certifi
+click
+colorama
+Flask
+importlib-metadata
+itsdangerous
+Jinja2
+MarkupSafe
+pytest
+typing-extensions
+Werkzeug
+wincertstore
+zipp

@@ -3,6 +3,6 @@ WORKDIR /app
 COPY requirements.txt ./requirements.txt
 RUN pip install -r requiremts.txt
 EXPOSE 8501
-COPY ./app
+COPY . /app
 ENTRYPOINT ["streamlit", "run"]
 CMD ["app.py"]

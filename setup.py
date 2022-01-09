@@ -8,5 +8,4 @@ setup(
     packages=find_packages(),
     license="MIT",
     url="https://github.com/manoharkulat/Thyroid_docker-cicd"
-
 )

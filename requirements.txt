@@ -21,4 +21,4 @@ typing-extensions
 Werkzeug
 wincertstore
 zipp
-.
+-e .
